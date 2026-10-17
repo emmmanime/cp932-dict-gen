@@ -1,0 +1,12 @@
+*.exe
+*.dll
+*.pdb
+bin/
+obj/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.xlsx
+~$*
+*.zip
+*.log
